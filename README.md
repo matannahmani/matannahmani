@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matannahmani
-- 👀 I’m interested in StartUps, React, Rails, Data science and Data engineering
+- 👀 I’m interested in StartUps, IoT, React, Rails, Data science and Data engineering
 - 🌱 I’m currently learning Data science, Data Engineering, AI
 - 💞️ I’m looking to collaborate on Startups and cool projects
 - 📫 How to reach me matan@thekeywe.com

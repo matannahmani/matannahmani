@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @matannahmani
-- 👀 I’m interested in StartUps, IoT,NextJS, React, Data science and Data engineering
-- 🌱 I’m currently learning Data science, Data Engineering, AI
-- 💞️ I’m looking to collaborate on Startups and cool projects
-- 📫 How to reach me matanleague@gmail.com
-
+- 🚀 Founder @ Ada AI – shaping the future of autonomous coding. ⚙️ Passionate about AI, system design, and shipping real-world solutions. 🤝 Always open to cutting-edge collaborations. We're hiring!
+- 📫 Reach me at matan@im-ada.ai
 <!---
 matannahmani/matannahmani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
